@@ -1,6 +1,3 @@
---Zeerox Hub Mining Sim 2--
-loadstring(game:HttpGet'https://raw.githubusercontent.com/RunDTM/miningsim2/main/rewrite.lua')()
-
 --Anti AFK Script--
 wait(0.5)local ba=Instance.new("ScreenGui")
 local ca=Instance.new("TextLabel")local da=Instance.new("Frame")
